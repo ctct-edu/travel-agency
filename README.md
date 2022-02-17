@@ -1,5 +1,3 @@
-# Microsoft Azure 基礎(AZ-900T01) 
-
 # サンプルデータ CTC旅行代店
 
 
