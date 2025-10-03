@@ -151,7 +151,9 @@ table td {
     position:relative;
     width:940px;
     margin:0 auto;
+    height: 80px; 
 }
+
 
 #menu {
     position:absolute;
@@ -578,3 +580,6 @@ font-size:14px;
 #pageTop a:hover {
     background:#70d3b6 url("../images/bg_pagetop.gif") 30px 50% no-repeat;
 }
+
+
+
